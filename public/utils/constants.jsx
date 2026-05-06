@@ -10,7 +10,8 @@ export const THUMBNAIL_URL=
    "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
 
 
-
+export const PRODUCTINFO_URL=
+"https://world.openfoodfacts.org/api/v2/product"
 
 
   /*

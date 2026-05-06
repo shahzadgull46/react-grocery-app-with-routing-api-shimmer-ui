@@ -2,7 +2,6 @@ import Product from "./Product";
 
 import { useEffect, useState } from "react";
 import Shimmer from "./Shimmer";
-
 const Body = () => {
   const [allProductList, setallProductList] = useState([]);
 

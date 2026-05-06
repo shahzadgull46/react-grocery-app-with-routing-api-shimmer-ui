@@ -1,0 +1,47 @@
+
+
+.shimmer-wrapper {
+  width: 90%;
+  display: flex;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  margin: 5rem auto;
+  padding: 2rem;
+  align-items: flex-start;
+}
+
+.shimmer-image-box {
+  width: 40%;
+  flex-shrink: 0;
+  display: flex;
+}
+
+.shimmer-img {
+  width: 300px;
+  height: 300px;
+  margin: 35px 69px;
+  border-radius: 10px;
+  background: #e2e8f0;
+}
+
+.shimmer-details {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+}
+
+.shimmer-title {
+  width: 70%;
+  height: 2rem;
+  margin-bottom: 1rem;
+  border-radius: 4px;
+  background: #e2e8f0;
+}
+
+.shimmer-row {
+  width: 100%;
+  height: 1.2rem;
+  margin: 0.5rem 0;
+  border-radius: 4px;
+  background: #e2e8f0;
+}
