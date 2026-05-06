@@ -2,7 +2,8 @@
 
 Experience the app here:  
 👉 [react grocery app](https://react-grocery-app-with-routing-api.vercel.app/)
-   
+
+   If proudcts do not shows then refresh the page. some time it gives fetch error because this is open food fact free api 
    🛒 React Router & Advanced Hooks Guide
 A comprehensive learning project covering React Router DOM, useEffect patterns, dynamic routing, and best practices for building modern single-page applications.
 
